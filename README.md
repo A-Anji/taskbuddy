@@ -1,7 +1,7 @@
 # TaskBuddy
 
 TaskBuddy is a full-stack task management application built for a college internship assignment. Each user can register, sign in, and manage only their own tasks.
-
+#Link: https://taskbuddy-bice.vercel.app/
 ## Features
 
 - JWT-based registration, login, and logout
